@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+feedback.csv
+app_backup.py

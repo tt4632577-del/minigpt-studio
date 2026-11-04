@@ -6,3 +6,6 @@ pillow
 edge-tts
 requests
 pytest
+groq
+ddgs
+pypdf
